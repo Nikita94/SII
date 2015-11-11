@@ -12,6 +12,8 @@ using NeuroWnd.Neuro_Nets;
 using NeuroWnd.Activate_functions;
 using System.Reflection;
 
+
+//comment for commit
 namespace NeuroWnd
 {
     public partial class NeuroNetsMainWindow : Form
