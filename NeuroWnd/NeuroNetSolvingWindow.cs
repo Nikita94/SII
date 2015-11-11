@@ -9,6 +9,8 @@ using System.Windows.Forms;
 
 using NeuroWnd.Neuro_Nets;
 
+// comment :)
+
 namespace NeuroWnd
 {
     public partial class NeuroNetSolvingWindow : Form
